@@ -1,0 +1,9 @@
+C:\Users\Sigh\Desktop\QBuild\bin\Debug\QBuild.exe.config
+C:\Users\Sigh\Desktop\QBuild\bin\Debug\QBuild.exe
+C:\Users\Sigh\Desktop\QBuild\bin\Debug\QBuild.pdb
+C:\Users\Sigh\Desktop\QBuild\obj\Debug\QBuild.csprojAssemblyReference.cache
+C:\Users\Sigh\Desktop\QBuild\obj\Debug\QBuild.Properties.Resources.resources
+C:\Users\Sigh\Desktop\QBuild\obj\Debug\QBuild.csproj.GenerateResource.cache
+C:\Users\Sigh\Desktop\QBuild\obj\Debug\QBuild.exe
+C:\Users\Sigh\Desktop\QBuild\obj\Debug\QBuild.pdb
+C:\Users\Sigh\Desktop\QBuild\obj\Debug\QBuild.Dashboard.resources
